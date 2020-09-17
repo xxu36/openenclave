@@ -12,7 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Deprecated
 
-The Open Enclave SDK will be dropping support for WS2016 after Dec 2020. Developers and partners using WS2016 will need to move to using WS2019 by then. 
+- The Open Enclave SDK will be dropping support for WS2016 after Dec 2020.
+Developers and partners using WS2016 will need to move to using WS2019 by then.
+https://github.com/openenclave/openenclave/issues/3539 tracks this.
 https://github.com/openenclave/openenclave/issues/3539 tracks this.
 
 
